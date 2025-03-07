@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  HeroRandomizer
-//
-//  Created by Arman Myrzakanurov on 28.02.2025.
-//
-
 import UIKit
 
 @main
